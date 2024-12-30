@@ -51,6 +51,7 @@ appendWindowsPath = false
 manually put things where they belong...
  - home/
   - except auto-generated files, micromamba, ...
+  - omit .local (contains uv etc. symlinks)
  - etc/
   - as needed
 probably nothing else.
