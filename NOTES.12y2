@@ -59,10 +59,11 @@ probably nothing else.
 packages:
  - meson
  - man-db
+ - openssh
  - emacs
  - mamba (micromamba-bin)
 ```
-aura -S meson man-db
+aura -S meson man-db openssh
 ```
 need temporary EDITOR for --hotedit
 ```
